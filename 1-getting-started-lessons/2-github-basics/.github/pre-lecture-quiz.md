@@ -4,10 +4,10 @@
 
 - [ ] git create
 - [ ] git start
-- [ ] git init
+- [o ] git init
 
 2. What does `git add` do?
 
 - [ ] Commits your code
-- [ ] Adds your files to a staging area for tracking
+- [ 0] Adds your files to a staging area for tracking
 - [ ] Adds your files to GitHub
